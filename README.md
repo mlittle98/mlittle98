@@ -1,5 +1,5 @@
 ### Hi there 👋
-# My name is Maggie Little ✨
+#### My name is Maggie Little ✨
 - I am majoring in CIS
 - Graduating in the Fall of 2023
 <!--
